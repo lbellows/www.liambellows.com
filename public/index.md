@@ -7,7 +7,7 @@ I have 8+ years of experience with technology projects, fulfilling roles that in
 ### Employment
 
 #### Consultant @ [Slalom, LLC](https://www.slalom.com/)
-2015 to Current - NY, NY
+2015 to Current - NY, NY & Boston, MA
 *   Created a SharePoint 2013 site that would act as a document repository for an Insurance client application.  Custom web services were created to facilitate document storage and retrieval.
 *   Created a SharePoint solution that would facilitate iPad data transfers.  Used custom WCF services, AngularJS, Typescript, Bower and Gulp to achieve business requirements.
 
