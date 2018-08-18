@@ -71,5 +71,5 @@ I have 8+ years of experience with technology projects, fulfilling roles that in
 *   Microsoft Certified Technology Specialist (MCTS): .NET Framework 2.0 Web Applications
 *   Microsoft Certified Technology Specialist (MCTS): .NET Framework 2.0 Windows Applications
 
-Location: Brooklyn, NY | Web: [http://liambellows.com](http://liambellows.com)
+Location: Nashua, NH | Web: [http://liambellows.com](http://liambellows.com)
 Email: [lbellows@gmail.com](mailto:lbellows@gmail.com) | Get a <a id="downloadBtn">copy</a>
