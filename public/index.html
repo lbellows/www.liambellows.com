@@ -22,10 +22,10 @@ $(function(){
     var mdHtml = converter.makeHtml(res);
     $('#content').html(mdHtml);
 
-    var content = '<!DOCTYPE html>' + mdHtml + '</html>';
-    var converted = htmlDocx.asBlob(content);
-    var downloadUrl = URL.createObjectURL(converted);
-    $('#downloadBtn').prop('href', downloadUrl).prop('download', 'Liam-Bellows-Resume.docx')
+    // var content = '<!DOCTYPE html>' + mdHtml + '</html>';
+    // var converted = htmlDocx.asBlob(content);
+    // var downloadUrl = URL.createObjectURL(converted);
+    // $('#downloadBtn').prop('href', downloadUrl).prop('download', 'Liam-Bellows-Resume.docx')
   })
 })
 </script>
