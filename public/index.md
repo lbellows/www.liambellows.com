@@ -2,12 +2,15 @@
 
 ### Summary
 
-I have 8+ years of experience with technology projects, fulfilling roles that include everything from managing offshore resources to full lifecycle implementation and support.  Working almost exclusively with SharePoint since 2007, I have learned a lot about how successful projects should be run and enjoy coming up with solutions to business problems. I have worked on a diverse set of teams and industries in both departmental and consulting environments and make successful delivery my #1 priority.
+I have 15+ years of experience with technology projects. I have learned a lot about how successful projects should be run and enjoy producing solutions to business problems. I have worked on a diverse set of teams and industries in both departmental and consulting environments and make successful delivery my #1 priority.
 
 ### Employment
 
-#### Consultant @ [Slalom, LLC](https://www.slalom.com/)
+#### Senior Consultant @ [Slalom, LLC](https://www.slalom.com/)
 2015 to Current - NY, NY & Boston, MA
+*   Created a custom Data Management platform that allowed ingestion and retrieval of assets using NodeJS on serverless AWS. Included 500TB+ of data migration through custom ingestion process.
+*   Created a public events scheduling platform using React & C# on Azure. Included payment processing and authentication using B2C, AAD and MSAL.
+*   Worked on a custom search solution for a consulting firm using React. Lead deployments using Jenkins and Ocotopus.
 *   Created a SharePoint 2013 site that would act as a document repository for an Insurance client application.  Custom web services were created to facilitate document storage and retrieval.
 *   Created a SharePoint solution that would facilitate iPad data transfers.  Used custom WCF services, AngularJS, Typescript, Bower and Gulp to achieve business requirements.
 
