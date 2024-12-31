@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "html-docx-js": "github:mcharters/html-docx-js"
+    "html-to-docx": "^1.8.0"
   }
 }
