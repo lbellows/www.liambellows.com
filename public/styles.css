@@ -46,6 +46,10 @@ section {
     padding: 25px;
     margin-bottom: 20px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+    #chat{
+       max-height: 350px; 
+    }
 }
 
 section h2 {
